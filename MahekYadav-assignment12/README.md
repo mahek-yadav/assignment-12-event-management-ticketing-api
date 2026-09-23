@@ -2,6 +2,8 @@
 
 A high-concurrency event ticketing REST API using Node.js, Express.js, Firebase Firestore, JWT role-based access control, rate limiting and Swagger/OpenAPI 3.0.
 
+Live link: https://event-ticketing-api-w2vs.onrender.com
+
 
 ## Features
 - Attendee and Organizer registration/login
